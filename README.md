@@ -1,4 +1,4 @@
-# based-software
+# cachyos-kernel-no-rust
 
 CachyOS default kernel config (linux-cachyos) with Rust support disabled.
 
